@@ -2,6 +2,12 @@
     <img src="image.avif" alt="Banner" ">
 </div>
 
+# CSE 307 CA 2 (Project Report)
+
+**Name:** Samhitha madala | **Reg NO:** 12214200 | **Section:** K22CS | **Roll NO:** 55
+
+**Git Repo :** https://github.com/Samhitha7613/CSC307-Blockchain-CA2/
+
 ## Problem Statement
 
 Design a **Solidity smart contract** to implement a **simple betting mechanism** where participants can bet a **fixed amount**. Each participant can bet only once per round. At the end of the round, a winner is chosen randomly, and the contract balance is transferred to the winner. The mechanism should ensure fairness, security, and ease of participation.
