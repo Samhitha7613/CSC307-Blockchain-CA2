@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="hero.png" alt="Banner" ">
+    <img src="image.avif" alt="Banner" ">
 </div>
 
 ## Problem Statement
